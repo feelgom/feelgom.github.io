@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Domestic Papers
+* <font size="3em" color="black"> <b>지윤성</b>, 심병효, "IRS 이용한 C-V2X 채널 용량 향상을 위한 자원 할당 기법," 한국통신학회 하계학술대회 논문집, 2021.</font>
+
+* <font size="3em" color="black"> <b>지윤성</b>, 박정재, 심병효, "심층강화학습 기반 데이터 전송률 향상을 위한 빔 자원 할당 기법," 한국통신학회 동계학술대회 논문집, 2021.</font>
+
+
+
 <!---
 ### Submitted/In preparation
 * <font size="3em" color="black"> Yong-Goo Shin, Cheol-Hwan Yoo, <b>Seung-Wook Kim</b>, Euiyeol Oh, and Sung-Jea Ko, "Deep style learning with convolutional neural network for fashion recommendation," submitted to <i>Electronic Letters</i>.</font>
@@ -95,9 +102,4 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 
 * <font size="3em" color="black"> Abdelhamed et al., "NTIRE 2019 challenge on real image denoising: Methods and results," <i>CVPRW 2019</i>, Long Beach, USA, 2019.</font>
 --->
-
-### Domestic Papers
-* <font size="3em" color="black"> <b>지윤성</b>, 심병효, "IRS 이용한 C-V2X 채널 용량 향상을 위한 자원 할당 기법," 한국통신학회 학술대회논문집, 2021.</font>
-
-* <font size="3em" color="black"> <b>지윤성</b>, 박정재, 심병효, "심층강화학습 기반 데이터 전송률 향상을 위한 빔 자원 할당 기법," 한국통신학회 학술대회논문집, 2021.</font>
 
