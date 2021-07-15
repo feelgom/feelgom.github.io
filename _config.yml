@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yoon-Sung Ji"
+title                    : "YoonSung Ji"
 title_separator          : "-"
 name                     : &name "Yoon-Sung Ji"
 description              : &description "Machine learning for wireless systems"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yoon-Sung Ji"
-  avatar           : #"ysji.png"
+  name             : "Yoonsung Ji"
+  avatar           : "ysji.jpg"
   bio              : "M.S. Student, Information System Laboratory ECE of Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
