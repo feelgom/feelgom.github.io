@@ -4,16 +4,13 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Technical Report
-* "Development of Global Multi-Target Tracking and Event Prediction Techniques Based on Real-Time Large-Scale Video Analysis (Deep-View)," _Institute for Information & commu-nications Technology Promotion (IITP)_, 3/2015-12/2019
+## Technical Reports
 
-* "Development of High Speed DNN based Video Segmentation Technology," _LG Electronics Co., Ltd._, 4/2017-7/2017
+* "Semidefinite Relaxation-based Beamforming Algorithm for IRS-assisted Wireless Network", 2021 Jun, [(PDF)](https://github.com/feelgom/feelgom.github.io/raw/master/files/2106_SDR-based%20Beamforming.pdf)"
 
-* "Research on image quality assessment and feature extraction from commercial multimedia," _Electronics and Telecommunications Research Institute (ETRI)_, 7/2014-1/2015
+* "Overview of Ultra-Reliable and Low-Latency Communications in Vehicle-to-Everything", 2021 Jan, [(PDF)](https://github.com/feelgom/feelgom.github.io/raw/master/files/2101_Overview%20of%20URLLC%20in%20V2X.pdf)"
 
-* "Development for Image Compensation method for Interactive Broadcasting," _Electronics and Telecommunications Research Institute (ETRI)_, 7/2014-1/2015
-
-* "Open platform development for see-through smart glasses with smart vision," _National IT Industry Promotion Agency (NIPA)_, 1/2012–2/2015
+* "Technical Report on 4G LTE", 2020 Oct, [(PDF)](https://github.com/feelgom/feelgom.github.io/raw/master/files/2010_Technical%20Report%20on%204G%20LTE.pdf)"
 
 
 <!---
