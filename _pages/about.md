@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 I am currently M.S. student in the [School of Electrical and Computer Engineering](https://ee.snu.ac.kr/), [Seoul National University](http://snu.ac.kr/), Seoul, Korea from 2020.
-#I was a research professor in the [School of Electrical Engineering](https://ee.korea.ac.kr/), [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea in 2019. I received the B.S. and Ph.D. degrees from [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea, in 2012 and 2019, respectively.
 
 ### Research Interests
 * Wireless Communication
@@ -18,15 +17,10 @@ I am currently M.S. student in the [School of Electrical and Computer Engineerin
 * Deep learning
 
 ### News
-* 
-#* One paper has been accepted by IEEE Access.
-#* One paper has been accepted by IEEE Network Magazine.
-#* 1st/2nd places in AIM Raw-to-RGB mapping Track at ICCV 2019.
-#* Two papers are accepted by ICCVW 2019.
-#* 3rd place in NAVER AI Rush 2019 (Image classification & click-through rate prediction)
+* news
 
 ### Computer Skills
-* Operating systems: Windows, Ubuntu
+* Operating systems: Windows, macOS
 * Languages: C/C++, Python, MATLAB
 
 ### Contact Information
