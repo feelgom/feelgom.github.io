@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yoon-Sung Ji"
-  avatar           : "ysji.png"
+  avatar           : #"ysji.png"
   bio              : "M.S. Student, Information System Laboratory ECE of Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
