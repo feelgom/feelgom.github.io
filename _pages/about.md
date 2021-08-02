@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yoon-Sung Ji [(CV)](https://github.com/feelgom/feelgom.github.io/raw/master/cv_ysji_snu.pdf)"
+title: "Yoon-Sung Ji [(CV)](https://github.com/feelgom/feelgom.github.io/raw/master/files/CV_form.pdf)"
 
 excerpt: "About me"
 author_profile: true
