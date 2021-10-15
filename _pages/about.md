@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yoon-Sung Ji [(CV)](https://github.com/feelgom/feelgom.github.io/raw/master/files/cv_ysji_snu.pdf)"
+title: "Yoon-Sung Ji [(CV)](https://github.com/feelgom/feelgom.github.io/raw/master/files/ysji_resume.pdf)"
 
 excerpt: "About me"
 author_profile: true
@@ -16,12 +16,10 @@ I am currently M.S. student in the [School of Electrical and Computer Engineerin
 * Vehicle-to-Everything
 * Deep learning
 
-### News
-* news
-
 ### Computer Skills
-* Operating systems: Windows, macOS
+* Operating systems: Windows, Ubuntu, macOS
 * Languages: C/C++, Python, MATLAB
+* Framework: Pytorch, Tensorflow
 
 ### Contact Information
 * E-mail: ysji@islab.snu.ac.kr
