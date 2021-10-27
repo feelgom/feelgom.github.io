@@ -19,7 +19,7 @@ I am currently M.S. student in the [School of Electrical and Computer Engineerin
 ### Computer Skills
 * Operating systems: Windows, Ubuntu, macOS
 * Languages: C/C++, Python, MATLAB
-* Framework: Pytorch, Tensorflow
+* Framework: Pytorch, Ubuntu, Tensorflow
 
 ### Contact Information
 * E-mail: ysji@islab.snu.ac.kr
